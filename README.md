@@ -66,3 +66,6 @@ void JouerNote(unsigned int Note_P, unsigned int NombreTemps_P)
 
 
 ```
+## Note
+![TableP118](https://github.com/ICAREMAKER/Arduino-Alarme-musicale/assets/107696317/1a996ce9-6f43-4575-b278-df51c16ecb61)
+
